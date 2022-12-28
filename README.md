@@ -1,5 +1,5 @@
 # hikvision
-Hikvision pre-auth log4j Poc
+Hikvision pre-auth fastjson Poc
 
 Usage: 
 ```python3 hik.py hikvisionURL collaboratorAddress:port```
