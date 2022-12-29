@@ -1,4 +1,4 @@
-# Hikvision log4j PoC
+# Hikvision fastjson PoC
 # - Nicolas 21/12/2022
 
 
